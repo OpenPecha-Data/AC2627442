@@ -1,0 +1,22 @@
+id: AC2627442
+title: Toh_210-The_Rice_Seedling-v1
+type: translation
+pechas:
+- I7BA31234
+- I23BA1940
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-08-20T09:40:47.842Z'
+  creationid: SE
+  eft-text-id: UT22084-062-010
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_210-The_Rice_Seedling-v1
+alignment_to_base:
+  I7BA31234/F52D: 74A3
+  I23BA1940/E8EF: 74A3
